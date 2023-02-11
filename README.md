@@ -1,4 +1,4 @@
 # MobileApp
 
 ## Yet to decide what to start
-But will be using React native for the development
+Currently it is decided that I will be using React native for the development.
